@@ -1,5 +1,4 @@
-🔭 Currently working on some Data Engineering Projects
-
+🔭 Currently analyzing some data...
 
 <!--
 **r-shabh/r-shabh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
